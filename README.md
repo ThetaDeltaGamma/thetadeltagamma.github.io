@@ -1,8 +1,7 @@
 # Theta Delta Gamma
 
-Ang Theta Delta Gamma
-Itinatag: Abril 24, 2020
-Mga Nagtatag: Lawrence Esplana at John Jovi Cordoves
+**Itinatag:** Abril 24, 2020  
+**Mga Nagtatag:** Lawrence Esplana at John Jovi Cordoves
 
  Ang Theta Delta Gamma ay Para sa magandang layunin ng kaparitan pagkakaroon ng respeto
  disiplina at paglilingkod sa kapwa sabay na pagtibayin ang
