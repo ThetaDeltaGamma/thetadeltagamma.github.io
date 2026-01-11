@@ -1,3 +1,5 @@
+# Theta Delta Gamma
+
 Ang Theta Delta Gamma
 Itinatag: Abril 24, 2020
 Mga Nagtatag: Lawrence Esplana at John Jovi Cordoves
