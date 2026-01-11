@@ -17,7 +17,9 @@ body {
 }
 
 .logo {
-    width: 460px;
+    width: 80%;        /* relative sa screen width */
+    max-width: 460px;  /* sa malalaking screen hindi lalagpas sa 460px */
+    height: auto;      /* automatic height para hindi mag-distort */
     display: block;
     margin: 0 auto 20px;
     filter: drop-shadow(0 0 8px rgba(212,175,55,0.5)); /* gold glow */
