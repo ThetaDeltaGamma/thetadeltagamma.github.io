@@ -10,7 +10,7 @@ Sabay na pagtibayin ang pagkakaisa pagmamalasakit sa bawat kapatid
 pagpapakita ng mabuting pamumuno at pagpapalaganap ng positibong impluwensya  
 sa komunidad.  
 
-Layunin din ang pagpapatibay ng kapatiran at nagkakaisa ng samahan. 
+Layunin din ang pagpapatibay ng kapatiran at nagkakaisa ng samahan.
 
 
 
